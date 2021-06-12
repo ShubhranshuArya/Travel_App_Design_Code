@@ -1,6 +1,8 @@
 # project2_travel_app_design
 
-A new Flutter project.
+A new Flutter UI project.
+
+![git_readme_image_proj2](https://user-images.githubusercontent.com/77967955/121787165-39efdb00-cbe2-11eb-8771-3cfcd5204a2a.jpg)
 
 ## Getting Started
 
